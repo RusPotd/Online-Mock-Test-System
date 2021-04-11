@@ -21,3 +21,5 @@ MCQ: select any one from available options
 MSQ: select multiple from available options
 
 After each exam, student will get indetail description of their test.(shows wrong and right answers along with description)
+
+Visit http://gatedipex.000webhostapp.com/ to see website running
