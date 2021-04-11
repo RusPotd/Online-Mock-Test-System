@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
+
+.ExamDetail{
+    width:40px;
+}
+
+#question{
+    z-index:1;
+    width: 100%;
+}
+
+        .container2 {
+            max-width:400px;
+            width:100%;
+            margin:0 auto;
+            position:relative;
+        }
+
+        #contact{
+            width:35%;
+            margin-bottom:10px;
+            position: absolute;
+        }
+
+        #contact h3{
+            color: orange;
+        }
+
+        #ExamDetail input{
+            width:100%;
+            margin-bottom:15px; 
+            outline-color: rgb(2, 192, 255);
+        }

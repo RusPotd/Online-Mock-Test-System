@@ -1,0 +1,38 @@
+.full-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.73);
+}
+
+.full-screen {
+}
+
+.full-screen .bg-white {
+  margin-top: 10%;
+  overflow-y: auto;
+}
+
+#close_signin {
+  font-size: 20px;
+}
+
+.hide {
+  display: none;
+}
+
+#signin {
+}
+
+input {
+  border: solid 1px #474141;
+  padding: 2px;
+  border-radius: 6px;
+}
+
+.fa.fa-mail-forward {
+  transform: rotateY(180deg);
+}
+
